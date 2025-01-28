@@ -4,7 +4,7 @@ The first open-source dashboard with an Arabic touch, offering unique and innova
 # Note: 
 This project is currently under development. There may be significant changes in the future, and not all features may be stable or complete. We welcome your contributions and ideas! 
 
-ت
+
 📢 [Join us on Telegram](https://t.me/+5_Xh_V1p0HkyNDc0)
 
 
